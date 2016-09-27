@@ -24,4 +24,13 @@
         android:layout_below="@+id/textView"
         android:layout_alignParentLeft="true" />
 
+    <TextView
+        android:text="Hello Yannick"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="33dp"
+        android:id="@+id/textView" />
+
 </RelativeLayout>
